@@ -30,7 +30,7 @@ The key questions answered in the data analysis project are:
 The attached file to this reposiory [FMproject.ipynb](https://github.com/asxd-10/asxdDataScience/blob/master/FMproject.ipynb) contains the entire code for the data analysis. The notebook is exploratory in searching through the data pertaining to the questions posed above. The code contains appropriate sections and descriptions of the process used.
 
 ### Conclusion and Inference
-The important insights and findings obtained from the data analysis have been described in this [article].
+The important insights and findings obtained from the data analysis have been described in this [article](https://medium.com/@katreashay/can-we-predict-the-position-of-a-player-in-football-manager-2020-3ae4bd726b0c).
 
 ### Acknowledgement, Author and Licensing
 For the project, I give credit to 
