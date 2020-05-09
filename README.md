@@ -27,7 +27,7 @@ The key questions answered in the data analysis project are:
 ### File Descriptions
 [dataset.csv](https://www.kaggle.com/ajinkyablaze/football-manager-data/download) - This is a 37 MB file available on Kaggle and comprises the entire Football Manager 2020 database of players.It contains different kinds of variables either numerical or categorical. It does not contain missing values.
 
-The attached file to this reposiory [FMproject.ipynb]<https://github.com/asxd-10/asxdDataScience/blob/master/FMproject.ipynb> contains the entire code for the data analysis. The notebook is exploratory in searching through the data pertaining to the questions posed above. The code contains appropriate sections and descriptions of the process used.
+The attached file to this reposiory [FMproject.ipynb](https://github.com/asxd-10/asxdDataScience/blob/master/FMproject.ipynb) contains the entire code for the data analysis. The notebook is exploratory in searching through the data pertaining to the questions posed above. The code contains appropriate sections and descriptions of the process used.
 
 ### Conclusion and Inference
 The important insights and findings obtained from the data analysis have been described in this [article].
